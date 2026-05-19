@@ -1,0 +1,15 @@
+{
+  "name": "feedback-app",
+  "version": "1.0.0",
+  "description": "App para realização de feedbacks do sistema de cursos online.",
+  "license": "ISC",
+  "author": "Samuel",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
